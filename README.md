@@ -1,4 +1,4 @@
-#### Hi there, I'm Allan! 👋.
+### Hi there, I'm Allan! 👋.
 I'm a undergraduate student of computer engineering.<br/>
 I program mainly in C ++ with a focus on the development of Embedded Systems.<br/>
 I know many other programming languages. In the future, I'll add the icons here.<br/>
