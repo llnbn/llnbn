@@ -1,9 +1,6 @@
 #### Hi there, I'm Allan! 👋.
-###### I'm undergraduate student of computer engineer. I mainly program in C++ focused on Embedded Systems development.
-
-<br />
-
-###### I know a lot of others programming languages. In the future I'll add the icons here.
+I'm undergraduate student of computer engineer. I mainly program in C++ focused on Embedded Systems development.
+I know a lot of others programming languages. In the future I'll add the icons here.
 
 <br />
 
