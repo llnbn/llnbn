@@ -1,9 +1,9 @@
 #### Hi there, I'm Allan! 👋.
-I'm majoring in computer engineering.<br/>
+I'm a undergraduate student of computer engineering.<br/>
 I program mainly in C ++ with a focus on the development of Embedded Systems.<br/>
-I know many other programming languages. In the future, I will add the icons here.<br/>
-###### Here you can find my social medias and other things:
+I know many other programming languages. In the future, I'll add the icons here.<br/>
 
+##### Here you can find my social medias and other things:
 <a href="https://twitter.com/leftabn">
   <img align="left" alt="Allan Bispo | Twitter" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/027-twitter.svg" />
 </a>
