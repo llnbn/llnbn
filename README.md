@@ -9,8 +9,6 @@
 
 ###### Here you can find my Twitter:
 
-<br />
-
 <a href="https://twitter.com/leftabn">
   <img align="left" alt="Allan Bispo | Twitter" width="22px" src="Icons/027-twitter.svg" />
 </a>
