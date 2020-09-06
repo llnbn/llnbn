@@ -1,9 +1,7 @@
 #### Hi there, I'm Allan! 👋.
-I'm undergraduate student of computer engineer. I mainly program in C++ focused on Embedded Systems development.
-I know a lot of others programming languages. In the future I'll add the icons here.
-
-<br />
-
+I'm majoring in computer engineering.<br/>
+I program mainly in C ++ with a focus on the development of Embedded Systems.<br/>
+I know many other programming languages. In the future, I will add the icons here.<br/>
 ###### Here you can find my social medias and other things:
 
 <a href="https://twitter.com/leftabn">
