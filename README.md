@@ -10,7 +10,7 @@
 ###### Here you can find my Twitter:
 
 <a href="https://twitter.com/leftabn">
-  <img align="left" alt="Allan Bispo | Twitter" width="22px" src="Icons/027-twitter.svg" />
+  <img align="left" alt="Allan Bispo | Twitter" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/027-twitter.svg" />
 </a>
 
 <br />
