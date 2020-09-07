@@ -13,6 +13,6 @@ I know many other programming languages. In the future, I'll add the icons here.
 <a href="https://instagram.com/leftabn">
   <img align="left" alt="Allan Bispo | Instagram" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/060-instagram.svg" />
 </a>
-<br />
+<br/>
 
 *************
