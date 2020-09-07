@@ -1,8 +1,9 @@
 ### Hi there, I'm Allan! 👋.
-I'm undergraduate student of computer engineering, enthusiast on competitive programming, computation complexity, games and music.<br/>
+I'm undergraduate student of computer engineering, enthusiast on competitive programming and computation complexity.
 I program mainly in C/C++ with a focus on the development of Embedded Systems.<br/>
 
 ##### You can ask me about:
+* Algorithms
 * Competitive programming
 * Data Structure
 * Programming techniques
@@ -10,7 +11,7 @@ I program mainly in C/C++ with a focus on the development of Embedded Systems.<b
 * Web development
 * SQL and NoSQL
 
-##### I'm working on:
+##### I'm currently working on:
 * Development of IoT systems for industrial monitoring and intelligent campus
 
 ##### I'm learning:
@@ -28,6 +29,13 @@ I program mainly in C/C++ with a focus on the development of Embedded Systems.<b
 <img align="left" alt="PHP" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/php.svg" />
 <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/python.svg" />
 <img align="left" alt="Ruby" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/ruby.svg" /><br/>
+
+##### More about me:
+* 22 y/o
+* Multi instrumentalist musician
+* RPG lover
+* Books lover
+
 
 ##### Here you can find my social medias and other things:
 <a href="https://twitter.com/leftabn">
