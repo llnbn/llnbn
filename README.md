@@ -7,6 +7,7 @@ I program mainly in C/C++ with a focus on the development of Embedded Systems.<b
 <img align="left" alt="C++" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/cpp.svg" />
 <img align="left" alt="C#" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/csharp.svg" />
 <img align="left" alt="F#" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/fsharp.svg" />
+<img align="left" alt="Haskell" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/haskell.svg" />
 <img align="left" alt="Java" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/java.svg" />
 <img align="left" alt="JS" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/javascript.svg" />
 <img align="left" alt="PHP" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/php.svg" />
