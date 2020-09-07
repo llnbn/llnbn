@@ -1,6 +1,6 @@
 ### Hi there, I'm Allan! 👋.
-I'm a undergraduate student of computer engineering.<br/>
-I program mainly in C++ with a focus on the development of Embedded Systems.<br/>
+I'm an undergraduate student of computer engineering.<br/>
+I program mainly in C/C++ with a focus on the development of Embedded Systems.<br/>
 
 ##### Programming languages I know:
 <img align="left" alt="C" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/c.svg" />
