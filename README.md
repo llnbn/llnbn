@@ -1,5 +1,5 @@
 ### Hi there, I'm Allan! 👋.
-I'm undergraduate student of computer engineering, enthusiast on competitive programming and computation complexity.<br/>
+I'm an undergraduate student of computer engineering, enthusiast on competitive programming and computation complexity.<br/>
 I program mainly in C/C++ with a focus on the development of Embedded Systems.<br/>
 
 ##### You can ask me about:
