@@ -1,6 +1,21 @@
 ### Hi there, I'm Allan! 👋.
-I'm an undergraduate student of computer engineering.<br/>
+I'm undergraduate student of computer engineering, enthusiast on competitive programming, computation complexity and music.<br/>
 I program mainly in C/C++ with a focus on the development of Embedded Systems.<br/>
+
+##### You can ask me about:
+* Competitive programming
+* Data Structure
+* Programming techniques
+* Embedded Systems development
+* Web development
+* SQL and NoSQL
+
+##### I'm working on:
+* Development of IoT systems for industrial monitoring and intelligent campus
+
+##### I'm learning:
+* Elixir
+* Erlang
 
 ##### Programming languages I know:
 <img align="left" alt="C" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/c.svg" />
