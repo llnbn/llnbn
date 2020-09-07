@@ -5,7 +5,7 @@ I program mainly in C/C++ with a focus on the development of Embedded Systems.<b
 ##### You can ask me about:
 * Algorithms
 * Competitive programming
-* Data Structure
+* Data structure
 * Programming techniques
 * Embedded Systems development
 * Web development
