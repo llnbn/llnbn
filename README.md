@@ -14,9 +14,12 @@ I program mainly in C/C++ with a focus on the development of Embedded Systems.<b
 ##### I'm currently working on:
 * Development of IoT systems for industrial monitoring and intelligent campus
 
+<!--
 ##### I'm learning:
+* Clojure
 * Elixir
 * Erlang
+-->
 
 ##### Programming languages I know:
 <img align="left" alt="C" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/c.svg" />
