@@ -31,7 +31,8 @@ I program mainly in C/C++ with a focus on the development of Embedded Systems.<b
 <img align="left" alt="JS" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/javascript.svg" />
 <img align="left" alt="PHP" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/php.svg" />
 <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/python.svg" />
-<img align="left" alt="Ruby" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/ruby.svg" /><br/>
+<img align="left" alt="Ruby" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/ruby.svg" />
+<br />
 
 ##### More about me:
 * 22 y/o
@@ -50,6 +51,9 @@ I program mainly in C/C++ with a focus on the development of Embedded Systems.<b
 <a href="https://instagram.com/leftabn">
   <img align="left" alt="Allan Bispo | Instagram" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/instagram.svg" />
 </a>
-<br/>
+<a href="https://www.linkedin.com/in/leftabn/">
+  <img align="left" alt="Allan Bispo | Linkedin" width="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
+</a>
+<br />
 
 *************
