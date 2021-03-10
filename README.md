@@ -53,6 +53,9 @@ I program mainly in C/C++ with a focus on the development of Embedded Systems.<b
 <a href="https://www.linkedin.com/in/leftabn/">
   <img align="left" alt="Allan Bispo | Linkedin" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
 </a>
+<a href="http://lattes.cnpq.br/4451836112789896">
+  <img align="left" alt="Allan Bispo | Linkedin" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/lattes.svg" />
+</a>
 <br />
 
 *************
