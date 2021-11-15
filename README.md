@@ -2,6 +2,8 @@
 I'm an undergraduate student of computer engineering, enthusiast on competitive programming and computation theory.<br/>
 I program mainly in C/C++ with a focus on the development of Embedded Systems.<br/>
 
+Software developer at LSD - UFCG.
+
 ##### You can ask me about:
 * Algorithms
 * Competitive programming
@@ -35,7 +37,7 @@ I program mainly in C/C++ with a focus on the development of Embedded Systems.<b
 <br />
 
 ##### More about me:
-* 22 y/o
+* 23 y/o
 * RPG lover
 * Books lover
 
