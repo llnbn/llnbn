@@ -37,7 +37,7 @@ I program mainly in C/C++ with a focus on the development of Embedded Systems.<b
 <!-- <img align="left" alt="Ruby" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/ruby.svg" /> -->
 <br />
 
-##### 🙋🏽‍♂ More about me:
+##### 🙋🏾‍♂️ More about me:
 * 23 y/o
 * RPG lover
 * Books lover
@@ -60,5 +60,12 @@ I program mainly in C/C++ with a focus on the development of Embedded Systems.<b
   <img align="left" alt="Allan Bispo | Linkedin" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/lattes.svg" />
 </a>
 <br />
+
+#### My stats:
+<div style="display: flex;flex-direction: column;"
+  <a href="https://github.com/leftabn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leftabn&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leftabn&layout=compact&langs_count=8&theme=dark" />
+</div>
 
 *************
