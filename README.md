@@ -2,9 +2,10 @@
 I'm an undergraduate student of computer engineering, enthusiast on competitive programming and computation theory.<br/>
 I program mainly in C/C++ with a focus on the development of Embedded Systems.<br/>
 
-Software developer at LSD - UFCG.
+💻 Software developer at LSD | UFCG.<br/>
+📖 Researcher at GComPI | IFPB - CG
 
-##### You can ask me about:
+##### 💬 You can ask me about:
 * Algorithms
 * Competitive programming
 * Data structure
@@ -13,7 +14,7 @@ Software developer at LSD - UFCG.
 * Web development
 * SQL and NoSQL
 
-##### I'm currently working on:
+##### 💪🏼 I'm currently working and researching on:
 * Development of IoT systems for industrial monitoring and intelligent campus
 
 <!--
@@ -23,7 +24,7 @@ Software developer at LSD - UFCG.
 * Erlang
 -->
 
-##### Programming languages I know:
+##### 🧠 Programming languages I know:
 <img align="left" alt="C" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/c.svg" />
 <img align="left" alt="C++" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/cpp.svg" />
 <!-- <img align="left" alt="C#" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/csharp.svg" /> -->
@@ -36,20 +37,20 @@ Software developer at LSD - UFCG.
 <!-- <img align="left" alt="Ruby" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/ruby.svg" /> -->
 <br />
 
-##### More about me:
+##### 🙋🏽‍♂ More about me:
 * 23 y/o
 * RPG lover
 * Books lover
 
 
-##### Here you can find my social medias and other things:
-<a href="https://twitter.com/leftabn">
+##### 📫 Here you can find my social medias and other things:
+<a href="https://twitter.com/walla_tex">
   <img align="left" alt="Allan Bispo | Twitter" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/twitter.svg" />
 </a>
 <a href="https://open.spotify.com/user/qlu75cwi4n64e4w1mdq2168a4">
   <img align="left" alt="Allan Bispo | Spotify" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/spotify.svg" />
 </a>
-<a href="https://instagram.com/leftabn">
+<a href="https://instagram.com/walla.tif">
   <img align="left" alt="Allan Bispo | Instagram" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/leftabn/">
