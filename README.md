@@ -62,10 +62,14 @@ I program mainly in C/C++ with a focus on the development of Embedded Systems.<b
 <br />
 
 #### My stats:
-<div style="display: flex;flex-direction: column;"
+<div style="display: flex;flex-direction: column;">
   <a href="https://github.com/leftabn">
+  <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leftabn&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  </div>
+  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leftabn&layout=compact&langs_count=8&theme=dark" />
+  </div>
 </div>
 
 *************
