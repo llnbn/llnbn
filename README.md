@@ -2,7 +2,6 @@
 I'm an undergraduate student of computer engineering, enthusiast on competitive programming and computation theory.<br/>
 I program mainly in C/C++ with a focus on the development of Embedded Systems.<br/>
 
-💻 Software Developer Consultant @ Thoughtworks.<br/>
 💻 Software Developer @ LSD | UFCG.<br/>
 📖 Researcher @ GComPI | IFPB - CG
 
