@@ -38,7 +38,7 @@ I program mainly in C/C++ with a focus on the development of Embedded Systems.<b
 <br />
 
 ##### 🙋🏾‍♂️ More about me:
-* 23 y/o
+* 24 y/o
 * RPG lover
 * Books lover
 
