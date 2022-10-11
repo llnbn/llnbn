@@ -1,6 +1,6 @@
 ### Hi there, I'm Allan! 👋.
-I'm an undergraduate student of computer engineering, enthusiast on competitive programming and computation theory.<br/>
-I program mainly in C/C++ with a focus on the development of Embedded Systems.<br/>
+I've a bachelor's degree in computer engineering. I'm enthusiast on competitive programming and computation theory.<br/>
+I program mainly in Java with a focus on the development of backend web systems.<br/>
 
 💻 Software Engineer @ LSD | UFCG.<br/>
 📖 Researcher @ GComPI | IFPB - CG
