@@ -1,9 +1,9 @@
 ### Hi there, I'm Allan! 👋.
 I've a bachelor's degree in computer engineering.<br/>
 I'm enthusiast on competitive programming and computation theory.<br/>
-I program mainly in Java with a focus on the development of backend web systems.<br/>
+I program mainly in C/C++ with a focus on the development of Embedded Systems.<br/>
 
-💻 Software Engineer @ LSD | UFCG.<br/>
+💻 Project Manager @ Smart4i | IFPB.<br/>
 📖 Researcher @ GComPI | IFPB - CG
 
 ##### 💬 You can ask me about:
