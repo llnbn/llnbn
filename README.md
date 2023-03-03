@@ -1,7 +1,7 @@
 ### Hi there, I'm Allan! 👋.
-I've a bachelor's degree in computer engineering.<br/>
-I'm enthusiast on competitive programming and computation theory.<br/>
-I program mainly in C/C++ with a focus on the development of Embedded Systems.<br/>
+I have a bachelor's degree in Computer Engineering<br/>
+I am enthusiast on competitive programming and computation theory.<br/>
+I program mainly in C/C++ with a focus on the development of embedded systems.<br/>
 
 💻 Project Manager @ Smart4i | IFPB.<br/>
 📖 Researcher @ GComPI | IFPB - CG
@@ -9,13 +9,15 @@ I program mainly in C/C++ with a focus on the development of Embedded Systems.<b
 ##### 💬 You can ask me about:
 * Algorithms
 * Competitive programming
-* Data structure
+* Data structures
+* Embedded systems development
+* OOP/SOLID design patterns
 * Programming techniques
-* Embedded Systems development
+* SQL and NoSQL databases
+* System design
 * Web development
-* SQL and NoSQL
 
-##### 💪🏼 I'm currently working and researching on:
+##### 💪🏼 I am currently working and researching on:
 * Development and research in innovation of IoT systems for industry.
 
 <!--
@@ -39,7 +41,7 @@ I program mainly in C/C++ with a focus on the development of Embedded Systems.<b
 <br />
 
 ##### 🙋🏾‍♂️ More about me:
-* 24 y/o
+* 24 years old
 * RPG lover
 * Books lover
 
