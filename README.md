@@ -16,7 +16,7 @@ I program mainly in C/C++ with a focus on the development of Embedded Systems.<b
 * SQL and NoSQL
 
 ##### 💪🏼 I'm currently working and researching on:
-* Development of IoT systems for industrial monitoring and intelligent campus
+* Development and research in innovation of IoT systems for industry.
 
 <!--
 ##### I'm learning:
@@ -51,7 +51,7 @@ I program mainly in C/C++ with a focus on the development of Embedded Systems.<b
 <a href="https://open.spotify.com/user/qlu75cwi4n64e4w1mdq2168a4">
   <img align="left" alt="Allan Bispo | Spotify" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/spotify.svg" />
 </a>
-<a href="https://instagram.com/walla.tif">
+<a href="https://instagram.com/walla.crw">
   <img align="left" alt="Allan Bispo | Instagram" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/leftabn/">
