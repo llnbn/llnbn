@@ -47,16 +47,16 @@ I program mainly in C/C++ with a focus on the development of embedded systems.<b
 
 
 ##### 📫 Here you can find my social medias and other things:
-<a href="https://twitter.com/walla_tex">
+<a href="https://twitter.com/taowbn">
   <img align="left" alt="Allan Bispo | Twitter" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/twitter.svg" />
 </a>
 <a href="https://open.spotify.com/user/qlu75cwi4n64e4w1mdq2168a4">
   <img align="left" alt="Allan Bispo | Spotify" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/spotify.svg" />
 </a>
-<a href="https://instagram.com/walla.crw">
+<a href="https://instagram.com/taowbn">
   <img align="left" alt="Allan Bispo | Instagram" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/instagram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/leftabn/">
+<a href="https://www.linkedin.com/in/taowbn/">
   <img align="left" alt="Allan Bispo | Linkedin" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
 </a>
 <a href="http://lattes.cnpq.br/4451836112789896">
@@ -66,7 +66,7 @@ I program mainly in C/C++ with a focus on the development of embedded systems.<b
 
 #### My stats:
 <div>
-  <a href="https://github.com/leftabn">
+  <a href="https://github.com/taowbn">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leftabn&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leftabn&layout=compact&langs_count=8&theme=aura" />
 </div>
