@@ -3,6 +3,7 @@ I have a bachelor's degree in Computer Engineering<br/>
 I am enthusiast on competitive programming and computation theory.<br/>
 I program mainly in C/C++ with a focus on the development of embedded systems.<br/>
 
+💻 System Analyst @ ICarros.<br/>
 💻 Project Manager @ Smart4i | IFPB.<br/>
 📖 Researcher @ GComPI | IFPB - CG
 
