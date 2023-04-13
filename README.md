@@ -4,8 +4,8 @@ I am enthusiast on competitive programming and computation theory.<br/>
 I program mainly in C/C++ with a focus on the development of embedded systems.<br/>
 
 💻 System Analyst @ iCarros.<br/>
-💻 Project Manager @ Smart4i | IFPB.<br/>
-📖 Researcher @ GComPI | IFPB - CG
+💻 Project Manager @ Smart4i.<br/>
+📖 Researcher @ GComPI IFPB - CG
 
 ##### 💬 You can ask me about:
 * Algorithms
