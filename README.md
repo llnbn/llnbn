@@ -5,7 +5,7 @@ I program mainly in C/C++ with a focus on the development of embedded systems.<b
 
 💻 System Analyst @ iCarros.<br/>
 💻 Project Manager @ Smart4i.<br/>
-📖 Researcher @ GComPI IFPB - CG
+📖 Researcher @ GComPI IFPB - CG.
 
 ##### 💬 You can ask me about:
 * Algorithms
