@@ -70,8 +70,8 @@ I program mainly in C/C++ with a focus on the development of embedded systems.<b
 #### My stats:
 <div>
   <a href="https://github.com/taowbn">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taowbn&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taowbn&layout=compact&langs_count=8&theme=aura" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llnbn&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llnbn&layout=compact&langs_count=8&theme=aura" />
 </div>
 
 *************
