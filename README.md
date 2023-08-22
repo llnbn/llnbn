@@ -1,11 +1,10 @@
 ### Hello people, I am Allan! 👋
-I have a bachelor's degree in Computer Engineering<br/>
+I have a bachelor's degree in Computer Engineering and now I am pursuing a master's degree in Computer Science at CIn - UFPE.<br/>
 I am enthusiast on competitive programming and computation theory.<br/>
-I program mainly in C/C++ with a focus on the development of embedded systems.<br/>
+I program mainly in C/C++ with a focus on the development of embedded systems.
 
-💻 System Analyst @ iCarros.<br/>
-💻 Project Manager @ Smart4i.<br/>
-📖 Researcher @ GComPI IFPB - CG.
+💻 System Analyst at icarros.<br/>
+💻 Project Manager at Smart4i.
 
 ##### 💬 You can ask me about:
 * Algorithms
@@ -42,10 +41,10 @@ I program mainly in C/C++ with a focus on the development of embedded systems.<b
 <br />
 
 ##### 🙋🏾‍♂️ More about me:
-* 24 years old
+* 25 years old
 * RPG lover
 * Books lover
-
+* Musician
 
 ##### 📫 Here you can find my social medias and other things:
 <!--
