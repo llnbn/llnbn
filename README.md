@@ -3,8 +3,7 @@ I have a bachelor's degree in Computer Engineering and now I am pursuing a maste
 I am enthusiast on competitive programming and computation theory.<br/>
 I program mainly in C/C++ with a focus on the development of embedded systems.
 
-💻 System Analyst at icarros.<br/>
-💻 Project Manager at Smart4i.
+💻 Systems Analyst at icarros.<br/>
 
 ##### 💬 You can ask me about:
 * Algorithms
