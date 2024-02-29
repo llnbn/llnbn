@@ -17,7 +17,8 @@ I program mainly in C/C++ with a focus on the development of embedded systems.
 * Web development
 
 ##### 💪🏼 I am currently working and researching on:
-* Development and research in innovation of IoT systems for industry.
+* IoT systems for industry.
+* Autonomous drones.
 
 <!--
 ##### I'm learning:
