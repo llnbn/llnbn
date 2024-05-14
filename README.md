@@ -42,6 +42,7 @@ I program mainly in C/C++/SystemVerilog with a focus on the development of embed
 <!-- <img align="left" alt="PHP" width="22px" height="22px" src="https://raw.githubusercontent.com/llnbn/llnbn/master/Programming/php.svg" /> -->
 <img align="left" alt="Python" width="22px" height="22px" src="https://raw.githubusercontent.com/llnbn/llnbn/master/Programming/python.svg" />
 <!-- <img align="left" alt="Ruby" width="22px" height="22px" src="https://raw.githubusercontent.com/llnbn/llnbn/master/Programming/ruby.svg" /> -->
+<img align="left" alt="System Verilog" width="22px" height="22px" src="https://raw.githubusercontent.com/llnbn/llnbn/master/Programming/systemverilog.svg" />
 <br />
 
 ##### 🙋🏾‍♂️ More about me:
