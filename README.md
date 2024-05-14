@@ -19,6 +19,9 @@ I program mainly in C/C++ with a focus on the development of embedded systems.
 ##### 💪🏼 I am currently working and researching on:
 * IoT systems for industry.
 * Autonomous drones.
+* Design and implementation of a RISC-V multipurpose processor on FPGA.
+* Design and implementation of a coprocessor on FPGA for image processing.
+
 
 <!--
 ##### I'm learning:
@@ -35,6 +38,7 @@ I program mainly in C/C++ with a focus on the development of embedded systems.
 <!--<img align="left" alt="Haskell" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/haskell.svg" /> -->
 <img align="left" alt="Java" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/java.svg" />
 <img align="left" alt="JS" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/javascript.svg" />
+<img align="left" alt="Kotlin" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/kotlin.svg" />
 <!-- <img align="left" alt="PHP" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/php.svg" /> -->
 <img align="left" alt="Python" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/python.svg" />
 <!-- <img align="left" alt="Ruby" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Programming/ruby.svg" /> -->
@@ -58,7 +62,7 @@ I program mainly in C/C++ with a focus on the development of embedded systems.
 <a href="https://open.spotify.com/user/qlu75cwi4n64e4w1mdq2168a4">
   <img align="left" alt="Allan Bispo | Spotify" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/spotify.svg" />
 </a>
-<a href="https://www.linkedin.com/in/allanbnt/">
+<a href="https://www.linkedin.com/in/llnbn/">
   <img align="left" alt="Allan Bispo | Linkedin" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
 </a>
 <a href="http://lattes.cnpq.br/4451836112789896">
