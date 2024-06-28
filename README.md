@@ -67,7 +67,7 @@ I program mainly in C/C++/SystemVerilog with a focus on the development of embed
   <img align="left" alt="Allan Bispo | Linkedin" width="22px" height="22px" src="https://raw.githubusercontent.com/llnbn/llnbn/master/Icons/linkedin.svg" />
 </a>
 <a href="http://lattes.cnpq.br/4451836112789896">
-  <img align="left" alt="Allan Bispo | Lattes" width="22px" height="22px" src="https://raw.githubusercontent.com/llnbn/llnbnn/master/Icons/lattes.svg" />
+  <img align="left" alt="Allan Bispo | Lattes" width="22px" height="22px" src="https://raw.githubusercontent.com/llnbn/llnbn/master/Icons/lattes.svg" />
 </a>
 <br />
 
