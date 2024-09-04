@@ -14,6 +14,7 @@ I program mainly in C/C++/SystemVerilog with a focus on the development of embed
 * Programming techniques
 * SQL and NoSQL databases
 * System design
+* System monitoring
 * Web development
 
 ##### 💪🏼 I am currently working and researching on:
@@ -46,7 +47,7 @@ I program mainly in C/C++/SystemVerilog with a focus on the development of embed
 <br />
 
 ##### 🙋🏾‍♂️ More about me:
-* 25 years old
+* 26 years old
 * RPG lover
 * Books lover
 * Musician
