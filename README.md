@@ -3,7 +3,7 @@ I have a bachelor's degree in Computer Engineering and now I am pursuing a maste
 I am enthusiast on competitive programming and computation theory.<br/>
 I program mainly in C/C++/SystemVerilog with a focus on the development of embedded systems.
 
-💻 Systems Analyst at icarros.<br/>
+💻 Software Engineer / SRE at Itaú Unibanco.<br/>
 
 ##### 💬 You can ask me about:
 * Algorithms
